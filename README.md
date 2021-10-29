@@ -225,4 +225,4 @@ The PoC in action.
 
 
 ## What's next? 
-We just have to rename the script from Proof of Concept to UNWRAPPER and implement the remaining 240 DIANA Nodes.
+We just have to rename the script from Proof of Concept to UNWRAPPER and implement the remaining 260 DIANA Nodes.
