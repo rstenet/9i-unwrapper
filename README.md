@@ -219,7 +219,7 @@ The PoC in action.
 
 ![UW_SIMPLE_A](images/uw_simple_a.png)
 
-[UW_SIMPLE_B](scripts/UW_SIMPLE_B.plb) -> [Soutce of UW_SIMPLE_B](scripts/UW_SIMPLE_B.sql)
+[UW_SIMPLE_B](scripts/UW_SIMPLE_B.plb) -> [Source of UW_SIMPLE_B](scripts/UW_SIMPLE_B.sql)
 
 ![UW_SIMPLE_B](images/uw_simple_b.png)
 
