@@ -12,8 +12,8 @@ CREATE GLOBAL TEMPORARY TABLE UW_LEX (IDX NUMBER, SRC VARCHAR2(4000 BYTE),
     
     
 set SERVEROUTPUT ON
-exec unwrap_9_v1('name_wrapped_code');
-exec unwrap_9_v1('');
+exec unwrap_9i_v1('name_wrapped_code');
+exec unwrap_9i_v1('');
     
 */
 
