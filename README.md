@@ -226,3 +226,8 @@ The PoC in action.
 
 ## What's next? 
 We just have to rename the script from Proof of Concept to UNWRAPPER and implement the remaining 260 DIANA Nodes.
+
+### Update 12.11.2021 
+Version 1 of the unwrapper is [here](v1).
+
+It is still a lot to do, bit with it I was able to unwrap quite big functions and procedures, which needed just a little manual work to be compiled successfully.
