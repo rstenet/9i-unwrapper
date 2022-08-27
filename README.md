@@ -3,7 +3,7 @@ The aim of this project is to explain the wrapped format and as second step to c
 
 To begin understanding the wrapped code the following resources, both from Pete Finnigan, were quite useful.
 
-- [How to uwrap PL/SQL](http://www.petefinnigan.com/UnwrappingPLSQLBlackHat2006.pdf)
+- [How to uwrap PL/SQL](https://www.blackhat.com/presentations/bh-usa-06/BH-US-06-Finnigan.pdf)
 - [PL/SQL, AST, DIANA, Attributes and IDL](http://www.petefinnigan.com/weblog/archives/00001475.htm)
 
 An abandoned shareware program [SoftDream Oracle UnWrapper](https://www.google.com/search?q=softdream+unwrapper) helped to get almost the complete picture. I was not interested in the unwrapped code as I already know it, but during the uwrap it writes down traces - see below.
